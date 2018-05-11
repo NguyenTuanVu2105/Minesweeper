@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1525659344 source:d:\gameminersweeper\colordisplay.cpp
+	<iostream>
+	<windows.h>
+	"ColorDisplay.h"
+
+1525658878 d:\gameminersweeper\colordisplay.h
+	<vector>
+	<windows.h>
+
+1525142249 source:d:\gameminersweeper\console.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	"console.h"
+
+1525142273 d:\gameminersweeper\console.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
+1525660885 source:d:\gameminersweeper\main.cpp
+	"ColorDisplay.h"
+	"board.h"
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"console.h"
+	"game.h"
+	"draw.h"
+
+1525074082 d:\gameminersweeper\board.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+	"ColorDisplay.h"
+	<iostream>
+	"ColorDisplay.h"
+	<cstdlib>
+
+1525142137 d:\gameminersweeper\game.h
+	"draw.h"
+	"board.h"
+	"console.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1525139490 source:d:\gameminersweeper\board.cpp
+	"board.h"
+
+1526019729 source:d:\gameminersweeper\game.cpp
+	"game.h"
+
+1525662069 source:d:\gameminersweeper\draw.cpp
+	"draw.h"
+
+1525660885 d:\gameminersweeper\draw.h
+	<iostream>
+	"game.h"
+	"console.h"
+	<cstdlib>
+	<ctime>
+	"colordisplay.h"
+

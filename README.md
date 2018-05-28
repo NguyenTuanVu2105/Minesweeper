@@ -8,7 +8,7 @@
   + Nếu là ô trống nó sẽ lan sang các ô xung quanh
   + Các số biểu thị số mìn xung quanh ô đó
   + Nếu các ô còn lại chưa được mở toàn là mìn bạn sẽ Win
- - Hướng phát triển:
+- Hướng phát triển:
   + Thêm hệ thống đặt cờ
   + Thêm điểm
   + Thêm Các phụ kiện hỗ trợ như Xem ô cần mở, Hồi sinh, ....
